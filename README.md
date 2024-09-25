@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pheyzal Mohamed Daahir 😊</h1>
 <h3 align="center">A passionate frontend App&Web developer from Somalia👦</h3>
-https://hedonistrian.com/game/Development-Application-Development-Services/5229180.htm
+https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faysal-maxamed" alt="faysal-maxamed" /></a> </p>
 

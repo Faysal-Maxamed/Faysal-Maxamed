@@ -28,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysal-maxamed&show_icons=true&locale=en&layout=compact" alt="faysal-maxamed" /></p>
 
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-maxamed&" alt="faysal-maxamed" /></p>

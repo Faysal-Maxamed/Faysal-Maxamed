@@ -77,11 +77,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-  
-</p>
-
-<br><br><br><br><br>
 
 

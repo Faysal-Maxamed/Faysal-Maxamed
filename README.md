@@ -1,4 +1,4 @@
-# 👨‍💻Software Engineer | Data Science & Machine Learning
+# 👨‍💻Software Engineer | Data Science | Machine Learning
 
 <div style="display:flex; align-items:center; justify-content:space-between; gap:30px;">
 
